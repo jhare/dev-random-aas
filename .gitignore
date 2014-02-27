@@ -1,5 +1,6 @@
 public
 .tmp
+*.swp
 .sass-cache
 heroku
 /views
